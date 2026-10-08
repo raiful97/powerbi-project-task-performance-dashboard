@@ -25,7 +25,7 @@ This page provides a high-level view of:
 
 ### 2. Project & Task Performance
 
-![Project & Task Performance](assets/02-project-task-performance.png)
+![Project & Task Performance](PowerBI_Project_Task_Performance_Dashboard/assets/02-project-task-performance.png)
 
 This page focuses on project and task-level execution.
 
@@ -46,7 +46,7 @@ Key areas include:
 
 ### 3. Employees Performance
 
-![Employees Performance](assets/03-employees-performance.png)
+![Employees Performance](PowerBI_Project_Task_Performance_Dashboard/assets/03-employees-performance.png)
 
 This page evaluates employee productivity and resource utilization.
 
