@@ -8,7 +8,7 @@ The dashboard is designed for project managers, department heads, PMO teams, and
 
 ### 1. Planned vs Actuals: Budget and Hours
 
-![Planned vs Actuals](assets/01-planned-vs-actuals.png)
+![Planned vs Actuals](PowerBI_Project_Task_Performance_Dashboard/assets/01-planned-vs-actuals.png)
 
 This page provides a high-level view of:
 
@@ -17,7 +17,7 @@ This page provides a high-level view of:
 - Budget variance
 - Hours variance
 - Budget and hours utilization
-- Project status distribution
+- Project status distribution`
 - Project risk-level distribution
 - Department-wise planned vs actual budget
 - Department-wise planned vs actual hours
