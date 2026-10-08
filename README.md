@@ -280,9 +280,9 @@ This project demonstrates practical skills in:
 
 Data Analyst | Power BI | SQL | Excel | Python
 
-GitHub: `https://github.com/`
+GitHub: `https://github.com/raiful97`
 
-LinkedIn: `https://www.linkedin.com/`
+LinkedIn: `https://www.linkedin.com/in/raiful-islam-ratul//`
 
 ---
 
